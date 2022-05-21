@@ -1,0 +1,54 @@
+@import url("htpps: //fonts.googleapis.com/css?family=Lora");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body{
+	text-align: center;
+	color: black;
+	font-family: Lora, monospace;
+	font-size: 18px;
+	text-justify: center;
+	text-align: justify-all;
+	margin: 30px auto  ;
+	
+}
+
+
+h1{
+	font-family: Lora;
+	font-weight: bold;
+	color: goldenrod;
+	font-size: 50px;
+	}
+
+h2,h3{
+	font-family: Lora;
+	color: goldenrod;
+	font-weight:  bold;
+	text-justify: center;
+	}
+
+
+h4{
+	font-family: Lora;
+	color: darkcyan;
+	font-weight:  bold;
+	}
+	
+a{
+	text-decoration: none;
+
+}
+
+
+.img-circle{
+	border-radius: 80%;
+}
+
+
+

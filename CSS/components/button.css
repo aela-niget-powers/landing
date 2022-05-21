@@ -1,0 +1,25 @@
+.btn-blue{
+	background-color: goldenrod;
+	color: floralwhite;
+	padding:  15px 18px;
+	border-radius: 20px;
+	font-family: lora;
+}
+
+.btn-orange{
+	background-color: darkcyan;
+	color: floralwhite;
+	padding:  15px 18px;
+	border-radius: 20px;
+	font-family: lora;
+}
+
+.btn-blue:hover{
+	background-color: darkcyan;
+	color: white;
+}
+
+.btn-orange:hover{
+	background-color: goldenrod;
+	color: white;
+}
